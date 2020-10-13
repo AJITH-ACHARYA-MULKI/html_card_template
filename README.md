@@ -2,4 +2,6 @@
 simple html card template where user can easily access information from the card.
 
 
-<img src="Screenshot 2020-10-13 170916.png" width=100px height=100px>
+<img src="Screenshot 2020-10-13 170916.png" width=500px height=200px>
+<img src="Screenshot 2020-10-13 171033.png" width=500px height=200px>
+<img src="Screenshot 2020-10-13 171117.png" width=500px height=200px>
